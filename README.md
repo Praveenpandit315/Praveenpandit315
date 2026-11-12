@@ -14,13 +14,13 @@
 
 <!-- Primary Quick Links / Action Badges -->
 <p align="center">
-  <a href="https://portfolio-murex-one-95.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Portfolio-portfolio--murex--one--95.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
+  <a href="https://gautam-portgenz.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Portfolio-gautam--portgenz.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
   </a>
-  <a href="https://portfolio-murex-one-95.vercel.app/resume/">
+  <a href="https://gautam-portgenz.netlify.app/resume/">
     <img src="https://img.shields.io/badge/ATS_Resume-Executive_One--Click_PDF-10B981?style=for-the-badge&logo=readme&logoColor=white" alt="ATS Resume"/>
   </a>
-  <a href="https://portfolio-murex-one-95.vercel.app/Certificates/">
+  <a href="https://gautam-portgenz.netlify.app/Certificates/">
     <img src="https://img.shields.io/badge/Credentials-18_Verified_Certificates-F59E0B?style=for-the-badge&logo=buffer&logoColor=white" alt="Verified Certificates"/>
   </a>
   <a href="https://linkedin.com/in/praveen-gautam-1a065830b/">
@@ -78,15 +78,15 @@ My work spans responsive web platforms, full-stack database architectures, and c
 ## 🧭 Current Focus & Engineering Roadmap
 
 ```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                               CURRENT ENGINEERING FOCUS                                │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│  🚀 Building        →  MediZone (Next.js 15, TypeScript & Supabase Pharmacy Platform)  │
-│  🧠 Deepening       →  Java, Data Structures & Algorithms (DSA), Complexity Reduction   │
-│  🎨 Refining        →  Design Systems, Micro-Interactions, A11y & Fluid Typography     │
-│  📱 Expanding       →  Cross-Platform Mobile Integration with Capacitor & Android       │
-│  🎯 Target          →  Software Engineering Roles delivering high-impact web products   │
-└────────────────────────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────────────────────┐
+│                               CURRENT ENGINEERING FOCUS                               │
+├───────────────────────────────────────────────────────────────────────────────────────┤
+│  🚀 Building        →  MediZone (Next.js 15, TypeScript & Supabase Pharmacy Platform) │
+│  🧠 Deepening       →  Java, Data Structures & Algorithms (DSA), Complexity Reduction │
+│  🎨 Refining        →  Design Systems, Micro-Interactions, A11y & Fluid Typography    │
+│  📱 Expanding       →  Cross-Platform Mobile Integration with Capacitor & Android     │
+│  🎯 Target          →  Software Engineering Roles delivering high-impact web products │
+└───────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -170,7 +170,7 @@ My work spans responsive web platforms, full-stack database architectures, and c
         <code>Tailwind CSS v4</code><br/>
         <code>Supabase PostgreSQL</code><br/>
         <code>Row Level Security</code><br/><br/>
-        <a href="https://portfolio-murex-one-95.vercel.app/"><img src="https://img.shields.io/badge/Explore_in-Portfolio-2563EB?style=flat-square&logo=vercel" alt="Portfolio"/></a>
+        <a href="https://gautam-portgenz.netlify.app/"><img src="https://img.shields.io/badge/Explore_in-Portfolio-2563EB?style=flat-square&logo=vercel" alt="Portfolio"/></a>
       </td>
     </tr>
     <!-- Care AI -->
@@ -190,7 +190,7 @@ My work spans responsive web platforms, full-stack database architectures, and c
         <code>Tailwind CSS</code><br/>
         <code>Geolocation API</code><br/>
         <code>Node.js</code><br/><br/>
-        <a href="https://portfolio-murex-one-95.vercel.app/"><img src="https://img.shields.io/badge/Live_Showcase-Care_AI-2563EB?style=flat-square&logo=vercel" alt="Live Demo"/></a>
+        <a href="https://gautam-portgenz.netlify.app/"><img src="https://img.shields.io/badge/Live_Showcase-Care_AI-2563EB?style=flat-square&logo=vercel" alt="Live Demo"/></a>
       </td>
     </tr>
     <!-- ExamOpt AI -->
@@ -284,7 +284,7 @@ My work spans responsive web platforms, full-stack database architectures, and c
 
 | Organization & Role | Tenure & Type | Key Engineering Contributions & Impact | Verification |
 | :--- | :--- | :--- | :---: |
-| **BAOIAM**<br/><sub>EdTech Startup</sub><br/>**Frontend Lead Intern** | **June 2026 – July 2026**<br/><sub>Remote / Hybrid</sub> | • Directed the frontend development modules for BAOIAM's EdTech web platform.<br/>• Coordinated sprint tasks and daily progress across frontend developers with clean Git workflows.<br/>• Engineered reusable, accessible UI component architectures, accelerating page rendering.<br/>• Delivered assigned production features ahead of scheduled sprint deadlines. | <a href="https://portfolio-murex-one-95.vercel.app/Certificates/"><img src="https://img.shields.io/badge/Verified-Experience_Letter-10B981?style=flat-square&logo=checkmarx" alt="Experience Letter"/></a> |
+| **BAOIAM**<br/><sub>EdTech Startup</sub><br/>**Frontend Lead Intern** | **June 2026 – July 2026**<br/><sub>Remote / Hybrid</sub> | • Directed the frontend development modules for BAOIAM's EdTech web platform.<br/>• Coordinated sprint tasks and daily progress across frontend developers with clean Git workflows.<br/>• Engineered reusable, accessible UI component architectures, accelerating page rendering.<br/>• Delivered assigned production features ahead of scheduled sprint deadlines. | <a href="https://gautam-portgenz.netlify.app/Certificates/"><img src="https://img.shields.io/badge/Verified-Experience_Letter-10B981?style=flat-square&logo=checkmarx" alt="Experience Letter"/></a> |
 
 </div>
 
@@ -327,7 +327,7 @@ Praveen's portfolio showcases **18 authentic, verified credentials and distincti
 | **Web-Quest Frontend Challenge**| GLA Technical Community | Frontend Problem Solving | 📜 **Coding Distinction** |
 
 <p align="center">
-  <a href="https://portfolio-murex-one-95.vercel.app/Certificates/">
+  <a href="https://gautam-portgenz.netlify.app//Certificates/">
     <img src="https://img.shields.io/badge/Inspect_All_18_Certificates-Interactive_Lightbox_Gallery-2563EB?style=for-the-badge&logo=googlephotos&logoColor=white" alt="View Certificates"/>
   </a>
 </p>
@@ -368,10 +368,10 @@ I am always interested in discussing modern software engineering opportunities, 
 <div align="center">
 
 <p align="center">
-  <a href="https://portfolio-murex-one-95.vercel.app/">
+  <a href="https://gautam-portgenz.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-portfolio--murex--one--95.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://portfolio-murex-one-95.vercel.app/resume/">
+  <a href="https://gautam-portgenz.netlify.app/resume/">
     <img src="https://img.shields.io/badge/ATS_Resume-Print_%26_Copy_Text-10B981?style=for-the-badge&logo=readme&logoColor=white" alt="ATS Resume"/>
   </a>
   <a href="https://linkedin.com/in/praveen-gautam-1a065830b/">
