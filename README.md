@@ -3,7 +3,7 @@
 <!-- Hero Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,35:1e3a8a,70:0284c7,100:38bdf8&height=225&section=header&text=Praveen%20Gautam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%7C%20Software%20Engineer%20%7C%208.6%20CGPA%20Distinction%20@%20GLA%20University&descSize=16&descAlignY=60" width="100%" alt="Praveen Gautam Header Banner"/>
 
-### `const developer = "Praveen Gautam"; // Frontend Developer | Software Engineer`
+### `const developer = "Praveen Gautam"; // Full Stack Developer | Software Engineer`
 
 <!-- Typing Animation -->
 <a href="https://portfolio-murex-one-95.vercel.app/">
